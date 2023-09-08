@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "BBC News Classification",
+      "tensorShape": [
+        2225,
+        16
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+    }
+  ]
+}
