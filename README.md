@@ -1,5 +1,4 @@
 # bbc-news_nlp
-In this project I learnt how preprocess  BBC News Classification Dataset.
 
 Visualization of embedding is represented in TensorBoard Embedding Projector [here](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/HelenLit/bbc-news_nlp/main/projector/projector-config.json):
 
