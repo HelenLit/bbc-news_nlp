@@ -3,11 +3,11 @@
     {
       "tensorName": "BBC News Classification",
       "tensorShape": [
-        2225,
+        27285,
         16
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/HelenLit/bbc-news_nlp/main/projector/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/HelenLit/bbc-news_nlp/main/projector/meta.tsv"
     }
   ]
 }
